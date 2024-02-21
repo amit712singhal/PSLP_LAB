@@ -1,2 +1,2 @@
-# Probability, Statistics and Linear Programming Lab (Dr. Anita Gupta)
+# Probability, Statistics & Linear Programming Lab (Dr. Anita Gupta)
 All programs done in PSLP LAB
